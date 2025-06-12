@@ -1,0 +1,6 @@
+/data
+
+*.pkl
+*.pth
+*.png
+data/cifar-100-python.tar.gz
