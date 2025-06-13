@@ -4,3 +4,14 @@
 *.pth
 *.png
 data/cifar-100-python.tar.gz
+#/__pycache__
+#*.pyc
+
+models/__pycache__/
+
+# Python cache files
+/__pycache__
+__pycache__\
+*.pyc
+
+models\__pycache__\augmentation.cpython-39.pyc
